@@ -21,9 +21,9 @@ An increase in the number of hydrogen bonds in a compound typically results in r
 ### iv. Hydrogen Bond Acceptor
 A compound with more than ten hydrogen bond acceptors is likely to exhibit reduced oral activity. This is similar to the reason for the hydrogen bond donor [3].
 
-![Figure 1: Diagrammatic representation of Lipinski’s Rule of Five](/images/figure1.png)
+![Figure 1: Diagrammatic representation of Lipinski’s Rule of Five](images/figure1.png)
  
-**Fig 1. Diagrammatic Representation of Lipinski’s Rule of Five**
+Fig 1. Diagrammatic Representation of Lipinski’s Rule of Five
 
 The Lipinski Rule of Five identifies drug-like compounds with optimal bioavailability, aiding the development of effective cancer therapies.
 
