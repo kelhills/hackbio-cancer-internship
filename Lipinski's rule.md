@@ -6,15 +6,20 @@
 
 Lipinski’s rule of five was created by Christopher A. Lipinski and his colleagues in the year 1997 [1]. This principle assesses drug-likeness by evaluating whether a chemical compound with defined pharmacological activities possesses the physicochemical properties necessary to be orally active in humans. [2].  To achieve this, he evaluated the properties of compounds that advanced from Phase I to Phase II clinical trials. To develop a rapid, automated compound assessment method, the molecular properties of these compounds that were most easily calculable were prioritized in the computational design [3]. 
 
+## Molecular Properties of Lipinski's Rule of Five
 The following molecular properties make up the Lipinski's rule of five:
 
-### i. Molecular Weight: There is an inverse relationship between permeability and molecular weight.  Reduced permeability in the gut and central nervous system can be correlated with an increase in molecular weight [4].  From the research carried out by Lipinski, he deduced that compounds with high molecular weight (>500) are less likely to be orally active when compared with those with lower molecular weight. 
+### i. Molecular Weight
+There is an inverse relationship between permeability and molecular weight.  Reduced permeability in the gut and central nervous system can be correlated with an increase in molecular weight [4].  From the research carried out by Lipinski, he deduced that compounds with high molecular weight (>500) are less likely to be orally active when compared with those with lower molecular weight. 
 
-### ii.Lipophilicity: Lipophilicity is one of the integral parameters considered in drug design, it predicts if a potential drug would be biologically active. It is used in describing how a potential drug is distributed between a nonpolar (octanol) and water [5]. Mathematically, it is represented as log P (P is the ratio of the drug that partitions into the organic phase to that in the aqueous phase). Various methods have been used in calculating the lipophilicity of a compound, but the best is the clog P which is considered the most accurate compared to others.  When clog P > 5 it indicates poor absorption.
+### ii.Lipophilicity
+Lipophilicity is one of the integral parameters considered in drug design, it predicts if a potential drug would be biologically active. It is used in describing how a potential drug is distributed between a nonpolar (octanol) and water [5]. Mathematically, it is represented as log P (P is the ratio of the drug that partitions into the organic phase to that in the aqueous phase). Various methods have been used in calculating the lipophilicity of a compound, but the best is the clog P which is considered the most accurate compared to others.  When clog P > 5 it indicates poor absorption.
 
-### iii. Hydrogen Bond Donor: An increase in the number of hydrogen bonds in a compound typically results in reduced permeability across the membrane bilayer. This occurs because compounds with more hydrogen bonds exhibit a greater affinity for aqueous solvents, such as water, compared to the lipophilic environment of the cell membrane. Consequently, compounds with more than five hydrogen bond donors are likely to have diminished absorption [3].
+### iii. Hydrogen Bond Donor
+An increase in the number of hydrogen bonds in a compound typically results in reduced permeability across the membrane bilayer. This occurs because compounds with more hydrogen bonds exhibit a greater affinity for aqueous solvents, such as water, compared to the lipophilic environment of the cell membrane. Consequently, compounds with more than five hydrogen bond donors are likely to have diminished absorption [3].
 
-### iv. Hydrogen Bond Acceptor:  A compound with more than ten hydrogen bond acceptors is likely to exhibit reduced oral activity. This is similar to the reason for the hydrogen bond donor [3].
+### iv. Hydrogen Bond Acceptor
+A compound with more than ten hydrogen bond acceptors is likely to exhibit reduced oral activity. This is similar to the reason for the hydrogen bond donor [3].
 
  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8FyhPARB3tQ0POkweu3TqmY5VLMBCKl7uGP6YmMjy975ttjI5euCej9XwjkS9qGbzmUHx6INscfy7a0FA_m8eLzo-ECr2aPuxaA8sut6BDkGMW7Fv2nwjdoecm-UccU-iHxJYK5nNeIaMz06ArByLYvs?key=qgymHWKhlaTTXPfLt6yngg)
 
@@ -36,7 +41,7 @@ The Lipinski Rule of Five identifies drug-like compounds with optimal bioavailab
 
  
 
-\
+
 
 
 <!--EndFragment-->
