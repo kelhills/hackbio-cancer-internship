@@ -55,8 +55,8 @@ The IGF1R protein has been modeled using the AlphaFold and Swiss modeling techni
 
 ## **REFERENCES** 
 
-[1] ********J. E. Puche and I. Castilla-Cortázar, ‘Human conditions of insulin-like growth factor-I (IGF-I) deficiency’, J. Transl. Med., vol. 10, no. 1, p. 224, Nov. 2012, doi: 10.1186/1479-5876-10-224.
-[2] J. Bailes and M. Soloviev, ‘Insulin-Like Growth Factor-1 (IGF-1) and Its Monitoring in Medical Diagnostic and in Sports’, Biomolecules, vol. 11, no. 2, p. 217, Feb. 2021, doi: 10.3390/biom11020217.
-[3] J. Li, E. Choi, H. Yu, and X. Bai, ‘Structural basis of the activation of type 1 insulin-like growth factor receptor’, Nat. Commun., vol. 10, p. 4567, Oct. 2019, doi: 10.1038/s41467-019-12564-0.
+[1]  J. E. Puche and I. Castilla-Cortázar, ‘Human conditions of insulin-like growth factor-I (IGF-I) deficiency’, J. Transl. Med., vol. 10, no. 1, p. 224, Nov. 2012, doi: 10.1186/1479-5876-10-224.
+[2]  J. Bailes and M. Soloviev, ‘Insulin-Like Growth Factor-1 (IGF-1) and Its Monitoring in Medical Diagnostic and in Sports’, Biomolecules, vol. 11, no. 2, p. 217, Feb. 2021, doi: 10.3390/biom11020217.
+[3]  J. Li, E. Choi, H. Yu, and X. Bai, ‘Structural basis of the activation of type 1 insulin-like growth factor receptor’, Nat. Commun., vol. 10, p. 4567, Oct. 2019, doi: 10.1038/s41467-019-12564-0.
 
 <!--EndFragment-->
