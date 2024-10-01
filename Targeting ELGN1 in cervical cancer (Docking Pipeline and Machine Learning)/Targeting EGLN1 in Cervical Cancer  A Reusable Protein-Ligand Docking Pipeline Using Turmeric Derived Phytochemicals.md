@@ -16,7 +16,7 @@ Cervical cancer is the fourth leading type of cancer in terms of mortality and m
 
 ### **Phytochemical Library**
 
-Turmeric phytochemicals were gathered using PubChem and the names, structures and sources were used in curating the library which was used for docking. The library can be accessed [here](Targeting ELGN1 in cervical cancer (Docking Pipeline and Machine Learning)/Turmeric Phytochemical Library.md).
+Turmeric phytochemicals were gathered using PubChem and the names, structures and sources were used in curating the library which was used for docking. The library can be accessed [here](https://github.com/kelhills/hackbio-cancer-internship/blob/main/Targeting%20ELGN1%20in%20cervical%20cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Turmeric%20Phytochemical%20Library.md).
 
 
 ### **Methodology**
