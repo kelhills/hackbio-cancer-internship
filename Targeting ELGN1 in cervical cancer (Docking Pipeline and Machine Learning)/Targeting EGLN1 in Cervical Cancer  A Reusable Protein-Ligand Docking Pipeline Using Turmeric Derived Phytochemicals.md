@@ -35,6 +35,7 @@ Turmeric phytochemicals were gathered using PubChem and the names, structures an
 **_Figure 1: Image of prepared EGLN1 for docking showing the active sites_**
 
 The full table containing the result of the docking of the 50 ligands can be found [here](https://github.com/kelhills/hackbio-cancer-internship/blob/main/Targeting%20ELGN1%20in%20cervical%20cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Phytochemical%20ligands%20with%20binding%20affinities%20(2).md).
+
 The visualization of the docked ligands (hits) with the protein target can be assessed [here](https://github.com/kelhills/hackbio-cancer-internship/tree/main/Targeting%20ELGN1%20in%20cervical%20cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/Visualizations%20of%20Docking%20Results).
 
 
