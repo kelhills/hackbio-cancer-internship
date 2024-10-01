@@ -21,7 +21,7 @@ Bioactivity data for the protein target EGLN1 was retrieved from **ChEMBL**, foc
 
 **Results**
 
-The Random Forest model yielded a **Root Mean Squared Error (RMSE) of 0.96** and an **R-squared value of 0.63**. Cross-validation using KFold resulted in MSE scores ranging from 0.99 to 1.39, with an average MSE of 1.12, showing moderate model performance and suggesting reasonable predictive capability. Using this model, the pIC50 values for the 50 ligands docked was predicted in the molecular docking experiments, enabling the identification of potentially bioactive compounds based on their predicted bioactivity against the target protein, EGLN1. The predicted pIC50 can be accessed [here](https://github.com/RxRuqayyah/Hackbio-Internship/blob/main/Targeting%20ELGN1%20in%20cervical%20cancer%20\(Docking%20Pipeline%20and%20Machine%20Learning\)/Predicted%20IC50.md).
+The Random Forest model yielded a **Root Mean Squared Error (RMSE) of 0.96** and an **R-squared value of 0.63**. Cross-validation using KFold resulted in MSE scores ranging from 0.99 to 1.39, with an average MSE of 1.12, showing moderate model performance and suggesting reasonable predictive capability. Using this model, the pIC50 values for the 50 ligands docked was predicted in the molecular docking experiments, enabling the identification of potentially bioactive compounds based on their predicted bioactivity against the target protein, EGLN1. The predicted pIC50 can be accessed [here](https://github.com/kelhills/hackbio-cancer-internship/blob/main/Targeting%20ELGN1%20in%20cervical%20cancer%20(Docking%20Pipeline%20and%20Machine%20Learning)/ML%20for%20drug%20development%20(1).ipynb).
 
 **Discussion**
 
