@@ -40,7 +40,7 @@ The proteins were prepared using Pymol and the 3d structures of the ligands were
 
 The docking scores of the HDAC proteins with the ligands in triplicates can be accessed [here](https://github.com/kelhills/hackbio-cancer-internship/blob/main/Full%20Pipeline%3A%20Reproducing%20Science/HDACs%20Docking%20Scores%20Summary.csv). 
 
-Visualizations of docking poses can be found [here](https://github.com/RxRuqayyah/Hackbio-Internship/tree/main/Full%20Pipeline%3A%20Reproducing%20Science/Visualization%20of%20Docking%20Poses).
+Visualizations of docking poses can be found [here](https://github.com/kelhills/hackbio-cancer-internship/tree/main/Full%20Pipeline%3A%20Reproducing%20Science/Visualization%20of%20Docking%20Poses).
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdB47l4m_sWo9cBjwkdRtLtCOlSK6tGAobIEuDzG3peNEMmWKFvZNxSl7A88bQVfq8pJgyiceVbnAjdPJ7W_82_CDSD8pciYDMGBRyIGMrrZzG9PNWE-XY_z-jDFYuwS0yxspqq1R_jylc6jyzeDcMRhobf?key=YpdnuLAtbPnVGibnOGkKFg)
 
